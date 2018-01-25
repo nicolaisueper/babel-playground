@@ -8,6 +8,7 @@ This is currently under heavy development
 
 - Select official / experimental babel presets
 - Live transpilation
+- Lazy load presets (dont't ask why, because I can)
 
 This project was built using create-react-app and electron
 A production build task is currently not implemented
