@@ -1,0 +1,12 @@
+.ToolBar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.ToolBar > * {
+  height: 100%;
+  margin: 10px 20px;
+  display: flex;
+  flex-direction: column;
+}

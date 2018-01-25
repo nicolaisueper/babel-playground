@@ -1,0 +1,9 @@
+.Editor {
+  flex-basis: 50%;
+  overflow: scroll;
+  border: 1px solid #ddd;
+}
+
+.CodeMirror {
+  min-height: 100%;
+}
